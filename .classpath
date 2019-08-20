@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Associacao e Encapsulamento/src"/>
+	<classpathentry kind="src" path="Heranças e Polimorfismo/src"/>
+	<classpathentry kind="src" path="Interfaces/src"/>
+	<classpathentry kind="src" path="Referência e Métodos/src"/>
+	<classpathentry kind="output" path="Associacao e Encapsulamento/bin"/>
+</classpath>
